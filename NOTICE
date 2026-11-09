@@ -1,0 +1,42 @@
+VocalLoom
+Copyright (C) 2026 jordankzf
+
+The original software in this project is provided under the GNU General Public
+License, version 3 or (at your option) any later version. See LICENSE. This
+software is provided without warranty.
+
+Approved cover demonstration
+
+Song: "Hide and Seek" by Imogen Heap.
+Cover performance: jordankzf.
+The bundled MP3 and note-visualization video contain the processed cover
+performance, included with the performer's permission. They do not contain the
+original artist's master recording. The software licence applies to the code;
+including this performance does not relicense the underlying composition.
+Raw takes, supplied song MIDI, full lyrics and private reports are not bundled.
+
+Third-party software
+
+This source repository depends on, but does not bundle, these upstream projects:
+
+Pedalboard - Spotify AB - GPLv3
+https://github.com/spotify/pedalboard
+
+Parselmouth / Praat - upstream authors - GPLv3
+https://github.com/YannickJadoul/Parselmouth
+https://github.com/praat/praat
+
+PyWORLD / WORLD - upstream authors - MIT / modified BSD
+https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder
+https://github.com/mmorise/World
+
+NumPy, SciPy, SoundFile, sounddevice, Mido, python-rtmidi, pyloudnorm and
+faster-whisper retain their respective upstream licences and notices. Installed
+dependency distributions supply their corresponding licence files.
+
+Speech-recognition weights are downloaded separately from their upstream model
+provider when transcription is first used. They are not included in this source
+repository and retain their own model licences.
+
+The separate synthetic demonstration fixtures are generated from harmonic tones
+and fictional text. They contain no recorded human voice or song transcription.

@@ -1,0 +1,23 @@
+# Local/private working data
+.venv/
+.models/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+renders/
+output/
+recordings/
+inputs/
+*.wav
+*.flac
+*.mp3
+*.mp4
+*.npz
+*.mid
+*.midi
+!examples/synthetic/synthetic-vocal.wav
+!examples/synthetic/synthetic-score.mid
+!docs/demo/hide-and-seek-demo.mp3
+!docs/demo/hide-and-seek-notes.mp4

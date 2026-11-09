@@ -1,0 +1,23 @@
+{
+  "owner": "jordankzf",
+  "name": "vocal-loom",
+  "display_name": "VocalLoom",
+  "description": "Local vocal harmonizer and MIDI pitch correction for recorded singing. Create tuned solos, duets and four-voice stacks with a Windows GUI and Python CLI. Inspired by Imogen Heap's Hide and Seek.",
+  "topics": [
+    "audio-processing",
+    "vocal-processing",
+    "pitch-correction",
+    "harmonizer",
+    "vocal-harmony",
+    "midi",
+    "music-production",
+    "audio-editing",
+    "singing",
+    "python",
+    "windows",
+    "psola",
+    "world-vocoder",
+    "vocoder"
+  ],
+  "note": "Prepared GitHub metadata. GitHub does not apply repository description or topics automatically from this file. Apply them when publishing."
+}

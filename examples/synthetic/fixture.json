@@ -1,0 +1,25 @@
+{
+  "description": "New synthetic harmonic vowels, no human voice or copyrighted song",
+  "sample_rate": 24000,
+  "duration_seconds": 3.4,
+  "pitches_midi": [
+    57,
+    59,
+    61,
+    64,
+    62
+  ],
+  "source_detuning_cents": 35.0,
+  "starts_seconds": [
+    0.25,
+    0.85,
+    1.45,
+    2.05,
+    2.65
+  ],
+  "files": {
+    "synthetic-vocal.wav": "803cfed7eb71dc841eb29bc22e159f450756c8f2ad2504971b57f1192ea147c0",
+    "synthetic-score.mid": "b5b74447635d4c6586ec75abd340914ea7259e4c2ddd47c98fa742f0ee5ec1fb",
+    "fictional-lyrics.txt": "9942846e75a934f255f319ab0dae318a03acd523c3be5b5955d6887740c69b40"
+  }
+}

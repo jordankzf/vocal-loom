@@ -1,0 +1,20 @@
+{
+  "title": "Hide and Seek",
+  "credit": "Imogen Heap / cover performed by jordankzf",
+  "audio_source_sha256": "e1d51f64e31e6093e824c2eed027e06c0223cf3ec14e3dedce973afa33c65fc5",
+  "duration_seconds": 143.6,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "visualization": "Rendered pitch targets from four voice-control lanes; activity gated by source voicing and approved comp edits",
+  "voices": 4,
+  "note_segments": 456,
+  "pitches_midi": [
+    38,
+    66
+  ],
+  "soundtrack_processing": "Encoding only; approved master used directly without DSP",
+  "mp3_bytes": 2689438,
+  "mp4_bytes": 7071087,
+  "elapsed_seconds": 66.42908430099487
+}
