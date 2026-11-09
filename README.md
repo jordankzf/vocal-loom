@@ -9,7 +9,9 @@ checks. Audio processing runs locally.
 ## Hear the result
 
 <!-- demo-player:start -->
-[![VocalLoom note visualization for a processed Hide and Seek cover](docs/demo/poster.png)](docs/demo/hide-and-seek-notes.mp4)
+
+https://github.com/user-attachments/assets/8f4e9450-a269-4631-b0b2-57a21a7fb322
+
 <!-- demo-player:end -->
 
 [MP3 audio](docs/demo/hide-and-seek-demo.mp3) | [MP4 note visualization](docs/demo/hide-and-seek-notes.mp4)
@@ -20,10 +22,9 @@ combines the recorded lead with three generated harmony voices, editing, EQ,
 compression, reverb, and loudness adjustment. The video shows the rendered note
 targets for those four voices. Its soundtrack is the processed cover performance.
 
-The media files are bundled here. GitHub's inline README player requires the MP4
-to be uploaded as a GitHub attachment after the repository exists. The
-[publishing checklist](docs/PUBLISHING.md) covers that step. For playback from a
-local checkout, open [the demo player](docs/index.html) in a browser.
+Play the video above directly in GitHub, or download the bundled MP3 and MP4.
+For playback from a local checkout, open [the demo player](docs/index.html)
+in a browser.
 
 The project began as an exploration of the layered vocal effect on Imogen Heap's
 "Hide and Seek". It is a general vocal-production tool, not an exact emulation of
